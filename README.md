@@ -1,5 +1,5 @@
 # Content Recommendation System
-Quick Summary: In this project I predict user ratings through memory based filtering and matrix factorization. This repository contains a Jupyter notebook where you'll find all the relevant code as well as a 4 min. video presentation I put together (as an alternative to the wall of text below) that summarizes the steps taken and findings of this project. 
+**Quick Summary**: In this project I predict user ratings through memory based filtering and matrix factorization. This repository contains a Jupyter notebook where you'll find all the relevant code as well as a 4 min. video presentation I put together (as an alternative to the text below) that summarizes the steps taken and findings of this project. 
 
 ## The Business Opportunity 
 Streaming platforms have been making use of recommendation systems since the beginning of their relatively young industry. However, according to to WarnerMedia’s  chief technology officer there’s still a lot of room for improvement: “It’s been tried through algorithms to provide recommendations to consumers… but I don’t think the sweet spot has been hit yet.”
